@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="sendMessage"><![CDATA[Send]]></string>
+    <string name="EnterMessage">Enter Message</string>
+</resources>
